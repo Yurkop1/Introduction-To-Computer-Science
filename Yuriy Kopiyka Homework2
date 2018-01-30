@@ -1,0 +1,21 @@
+Yuriy Kopiyka
+Homework
+1. What is the largest number you can store on:
+a. 12 binary digits: (2^12)-1 = 4095 
+b. 7 octal digits: (8^7)-1= 2097151
+c. 10 hexadecimal digits: (16^10)-1=1099511627775
+2. Arrianne 5 rocket failure.
+The rocket exploded just because of software error. 64 bit floating number was converted to a 16 bit signed integer. The number assigned was larger than 32,767(the largest integer u can store using 16 bit signed integer) so this mistake failed whole flight.
+3. Compute the decimal value of the following floating point numbers: 
+a. sign=0, mantissa=111, exponent=01
+(-1)^0 * 1.111 * 2^1 = 1,875*2=3,75
+b. sign=0, mantissa=10, exponent=10
+(-1)^0 * 1.10 * 2^0 = 1.5
+c. sing=1, mantissa=101, exponent=01
+(-1)^1 * 1.101 * 2^1 = -1 * 1.625 * 2 = -3,25
+4. Write your name and surname using ASCII code.
+89, 117, 114, 105, 121,     75, 111, 112, 105, 121, 107, 97.
+5. Write colors in RGB
+a. White 11111111 , 11111111 , 11111111
+b. Gray 01110111 , 01110111 , 01110111
+c. Blue 00000000 , 00000000 , 11111111

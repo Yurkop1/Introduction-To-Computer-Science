@@ -1,0 +1,7 @@
+1. If we want to have maximum compression ratio with ZIP algorithm we just need to make file full of same symbol. For example file full of 0;
+
+2. To make file with lowest compression ratio data in file must be completely random.
+
+3. To have maximum compression ratio with JPEG algorithm we just need to make file just with 1 color. 
+
+4. To have lowest compression ratio with JPEG image needs to be made of random color pixels.

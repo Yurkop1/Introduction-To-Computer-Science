@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<shop>
+	<department name="Electronics">
+		<shelf name="Mobiles & Accesories">
+			<phone>
+				<name>Redmi 4</name>
+				<price>500</price>
+				<memory>32</memory>
+				<display>5</display>
+				<battery>4100</battery>
+			</phone>
+			<phone>
+				<name>LG Q6</name>
+				<price>800</price>
+				<memory>32</memory>
+				<display>5.5</display>
+				<battery>3000</battery>
+			</phone>
+			<accesory>
+				<name>Power bank</name>
+				<price>100</price>
+				<capacity>10000</capacity>
+				<color>Black</color>
+			</accesory>
+		<shelf name="Audio">
+			<item>
+				<name>Headphones</name>
+				<brand>Sennheiser</brand>
+				<price>200</price>
+				<color>Yellow</color>
+				<type>Over-ear</type>
+			</item>
+			<item>
+				<name>Speakers</name>
+				<brand>Sony</brand>
+				<price>300</price>
+				<color>Brown</color>
+			</item>
+		</shelf>
+	</department>
+	<department name="Clothes">
+		<shelf name="Men">
+			<item>
+				<name>Jacket</name>
+				<color>Black</color>
+				<price>135</price>
+			</item>
+			<item>
+				<name>T-Shirt</name>
+				<color>Red</color>
+				<price>33</price>
+			</item>
+			<item>
+				<name>Jacket</name>
+				<color>Black</color>
+				<price>135</price>
+			</item>
+			<item>
+				<name>Socks</name>
+				<color>Black</color>
+				<price>20</price>
+			</item>
+		</shelf>
+		<shelf name="Women">
+			<item>
+				<name>Jeans</name>
+				<color>Blue</color>
+				<price>150</price>
+			</item>
+			<item>
+				<name>Shirt</name>
+				<color>White</color>
+				<price>160</price>
+			</item>
+			<item>
+		</shelf>
+	</department>
+</shop>
